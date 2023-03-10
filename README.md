@@ -3,13 +3,13 @@ Mobile Price Range Prediction-EDA-Supervised ML-Classification
 <h4>EDA</h4>
 <h4>Classification Models</h4>
 
-<h3>________________________________________________________________________________________________________</h3>
+<h3>_________________________________________________________________________________________</h3>
 <h4><b>In the competitive mobile phone market companies want to understand sales
 data of mobile phones and factors which drive the prices.</b>
 <h4><b>The objective is to find out some relation between features of a mobile phone(eg:- RAM,Internal Memory, etc) and its selling price.</b>
 <h4><b>In this problem, we do not have to predict the
 actual price but a price range indicating how high the price is?</b>
-<h3>________________________________________________________________________________________________________</h3>
+<h3>_________________________________________________________________________________________</h3>
 📚 References
 
 >'Mobile Price Prediction Using Machine Learning Blog' . [Online].
